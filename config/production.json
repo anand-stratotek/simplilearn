@@ -1,0 +1,4 @@
+{
+  "mongoDbUri": "mongodb+srv://anand-123:anand-123@mern-kd3ee.mongodb.net/simplilearn?retryWrites=true&w=majority",
+  "jwtSecret": "itsmysecretcodebro"
+}
